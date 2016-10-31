@@ -7,3 +7,8 @@ L'objectif de ces tutoriels, présentés sous forme de calepins ([*jupyter noteb
 
 Chaque dossier concerne un jeu de données et contient un calepin (*notebooks*) au format .ipynb à télécharger et ouvrir dans *Jupyter*. Il suffit de cloner le dépôt ou de télécharger l'archive.
 
+## Exemples et cas d'usage
+
+- [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/Nuages-gaussiens). Exemple jouet (dimension 2) de discrimination binaire de mélanges gaussiens en R. Frontières des classes seon les méthodes utilisées, rôle du paramètre de compexité.
+- [`Pic d'ozone`](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone) Prévision de la concentration (régression) ou de dépassementdu seuil (discrimination binaire) légal d'ozone par la plupart des méthodes d'apprentissage. En R et en Python.
+- Les autres scénarios en R de [wikistat.fr](http://wikistat.fr/) seront progressivement intégrés
