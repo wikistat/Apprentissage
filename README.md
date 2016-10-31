@@ -1,4 +1,4 @@
-###[**INSA de Toulouse**](http://www.insa-toulouse.fr/fr/index.html), [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des données`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
+###<a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des Données`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
 
 # Tutoriels de Science des Données en [Python](https://www.python.org/) et [R](href="https://cran.r-project.org/)
 # [Apprentissage Statistique](\http://wikistat.fr)
