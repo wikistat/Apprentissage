@@ -9,6 +9,6 @@ Chaque dossier concerne un jeu de données et contient un calepin (*notebooks*) 
 
 ## Exemples et cas d'usage
 
-- [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/Nuages-gaussiens). Exemple jouet (dimension 2) de discrimination binaire de mélanges gaussiens en R. Frontières des classes seon les méthodes utilisées, rôle du paramètre de compexité.
+- Exemples illustratifs "jouets" (dimension 2) de discrimination binaire de [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/Nuages-gaussiens) en R ou des [*Blobs-data*](https://github.com/wikistat/Apprentissage/tree/master/Blobs-data) de Scikit-learn. Dessiner les frontières des classes selon les méthodes utilisées, rôle du paramètre de compexité.
 - [`Pic d'ozone`](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone) Prévision de la concentration (régression) ou de dépassementdu seuil (discrimination binaire) légal d'ozone par la plupart des méthodes d'apprentissage. En R et en Python.
-- Les autres scénarios en R de [wikistat.fr](http://wikistat.fr/) seront progressivement intégrés
+- Les autres scénarios en R de [wikistat.fr](http://wikistat.fr/) seront progressivement intégrés.
