@@ -9,6 +9,8 @@ Chaque dossier concerne un jeu de données et contient un calepin (*notebooks*) 
 
 ## Exemples et cas d'usage
 
-- Exemples illustratifs "jouets" (dimension 2) de discrimination binaire de [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/Nuages-gaussiens) en R ou des [*Blobs-data*](https://github.com/wikistat/Apprentissage/tree/master/Blobs-data) de Scikit-learn. Dessiner les frontières des classes selon les méthodes utilisées, rôle du paramètre de compexité.
+- [`ExemplesJouet`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) illustratifs sur données simulées:
+	- Discrimination binaire en dimension 2: [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-R-Clouds.ipynb) en R ou [`Blobs`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-Python-Blobs.ipynb) de Scikit-learn. Dessiner les frontières des classes selon les méthodes utilisées, rôle du paramètre de compexité;
+	- Régression polynomiale en R, optimisation de la complexité (degré) par *Cp* de Mallows, régularisation *ridge* ou lasso.
 - [`Pic d'ozone`](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone) Prévision de la concentration (régression) ou de dépassementdu seuil (discrimination binaire) légal d'ozone par la plupart des méthodes d'apprentissage. En R et en Python.
 - Les autres scénarios en R de [wikistat.fr](http://wikistat.fr/) seront progressivement intégrés.
