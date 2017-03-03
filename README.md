@@ -1,6 +1,7 @@
 ###<a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des Données`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
 
-# Tutoriels de Science des Données en [Python](https://www.python.org/) et [R](href="https://cran.r-project.org/)
+# Tutoriels de Science des Données en [Python](https://www.python.org/) et [R](https://cran.r-project.org/)
+
 # [Apprentissage Statistique / Machine](\http://wikistat.fr)
 
 ### Objectifs
@@ -33,23 +34,24 @@ Pour chaque séance, **suivre le cours** ou consulter les vignettes puis exécut
 - Pic d'ozone: [calepin en R](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-R-Ozone.ipynb)
 - pic d'ozone: [calepin en Python](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-Python-Ozone.ipynb)
 
-
-
-
 ### Séance 1 
 - [Introduction: Apprentissage Machine pour la Science des données](http://wikistat.fr/pdf/st-m-app-intro.pdf)
 - [Qualité de prévision, risque](http://wikistat.fr/pdf/st-m-app-risque-estim.pdf)
 - [Rappels sur le modèle linéaire général](http://wikistat.fr/pdf/st-m-app-rlogit.pdf) (modèles gaussien et binomial)
+- 
 ### Séance 2
 - [Analyse discriminante, *k* plus proches voisins](http://wikistat.fr/pdf/st-m-app-add.pdf)
 - [Arbres binaires de décision](http://wikistat.fr/pdf/st-m-app-cart.pdf)
+- 
 ### Séance 3
 - [Réseaux de neurones](http://wikistat.fr/pdf/st-m-app-rn.pdf), introduction au *deep learning*
 - [Agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf): *boosting, random forest*
+- 
 ### Séance 4
 - [Régression PLS](http://wikistat.fr/pdf/st-m-app-sparse-pls.pdf)
 - [*Support Vector Machine*](http://wikistat.fr/pdf/st-m-app-svm.pdf)
 - [Synthèse](http://wikistat.fr/pdf/st-m-app-conclusion.pdf)
+- 
 ### Séance 5 (en travaux)
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
 - [Détection de défaillances]()(*One class Classification, noveltry detection*) 
