@@ -1,14 +1,20 @@
 ###<a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des Données`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
 
-# Tutoriels de *Science des Données* en [Python](https://www.python.org/) et [R](https://cran.r-project.org/)
+Schématiquement, la **Science des Données** est définie autour d'une *agrégation de compétences* en Informatique (langage comme [R](href="https://cran.r-project.org/) et [Python](https://www.python.org/) , gestion des données, calcul parallèle...), Statistique (exploration, estimation test, modélisaiton, prévision) Apprentissage Machine (prévision), Mathématiques (probabilités, optimisation, analyse fonctionnelle, graphes...). 
 
-# [Apprentissage Statistique / Machine](\http://wikistat.fr)
+Son **apprentissage** est acquis par l'intermédiaire de scénarios d'analyse de données réelles, ou *tutoriel*, présentés sous forme de *calepins* ([*jupyter notebooks*](http://jupyter.org/)) en [R](href="https://cran.r-project.org/) ou [Python](https://www.python.org/).
+
+Cette **pratique** est **indispensable** mais masque les *aspects théoriques* (mathématiques, statistiques): une *formule* est remplacée par un commande ou fonction en Python ou R, une *démonstration* par l'exécution d'exemples dans un calepin.
+
+Pour offrir de la *profondeur*, plus de compréhension, à cette (auto)-formation, les calepins renvoient (liens hypertextes) systématiquement à des **vignettes "théoriques"**  du site [wikistat.fr](http://wikistat.fr/) exposant en détail (cours) les méthodes et algorithmes concernés.
+
+Il ne s'agit pas simplement de pouvoir exécuter une méthode, un algorithme, il est important d'en **comprendre les propriétés**, conditions d'utilisation et limites.
+
+# Saison 3 [*Apprentissage Machine / Statistique*](\http://wikistat.fr)
 
 ### Objectifs
 
-L'objectif de ces tutoriels, présentés sous forme de calepins ([*jupyter notebooks*](http://jupyter.org/)) codés en R ou Python, est d'introduire, par la pratique, les méthodes et techniques de la statistique ou de la *Sciences des données*. Des sénarios détaillent des exemples ou cas d'usage  d'analyses de données "réelles".  Ce dépôt est consacré à l'apprentissage statistique / machine.  
-
-Par ailleurs, les méthodes utilisées  sont exposées dans les vignettes de [wikistat](http://wikistat.fr/).
+Cette saison est consacrée à l'apprentissage des principales méthodes et algorihtmes d'apprentissage (supervisé) machine ou statistique listées dans les épisodes successifs.
 
 ### Prérequis
 Avoir acquis les compétences des épisodes précédents ou revenir dans leurs saisons:
@@ -19,7 +25,7 @@ Avoir acquis les compétences des épisodes précédents ou revenir dans leurs s
 - [Exploration Statistique pour la Science des Données](https://github.com/wikistat/Exploration). Cet épisode intègre les algorithmes d'apprentissage non-supervisé (*clustering*).
 
 ### Organisation
-Les épisodes ou **séances** ci-dessous sont associées à des calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en R et Python. Exécuter les calepins en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
+Les **épisodes** ci-dessous sont associées à des calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en R et Python. Exécuter les calepins en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
 
 Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
 
@@ -30,38 +36,38 @@ Aborder la *Science des Données* avec les
 
 - [Technologies des grosses data](https://github.com/wikistat/Ateliers-Big-Data) (Hadoop Spark, XGBoost, Keras...)
 
-## Liste des épisodes / séances 
-Les [calepins]((https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) python et R, sont découpés en 4 séances listées ci-dessous. La 5ème est illustrée par des calepins spécifiques (à venir).
+## Épisodes 
+Les [calepins]((https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) python et R "fil rouge", sont découpés en 4 épisodes listés ci-dessous. Le 5ème est illustré par des calepins spécifiques (à venir).
 
-Pour chaque séance, **suivre le cours** ou consulter les vignettes puis exécuter les parties des calepins correspondants. 
+Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécuter les parties correspondantes des calepins . 
 
 - Pic d'ozone: [calepin en R](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-R-Ozone.ipynb)
-- pic d'ozone: [calepin en Python](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-Python-Ozone.ipynb)
+- Pic d'ozone: [calepin en Python](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-Python-Ozone.ipynb)
 
-### Séance 1 
+### Épisode 1 
 - [Introduction: Apprentissage Machine pour la Science des données](http://wikistat.fr/pdf/st-m-app-intro.pdf)
 - [Qualité de prévision, risque](http://wikistat.fr/pdf/st-m-app-risque-estim.pdf)
 - [Rappels sur le modèle linéaire général](http://wikistat.fr/pdf/st-m-app-rlogit.pdf) (modèles gaussien et binomial)
 
-### Séance 2
+### Épisode 2
 - [Analyse discriminante, *k* plus proches voisins](http://wikistat.fr/pdf/st-m-app-add.pdf)
 - [Arbres binaires de décision](http://wikistat.fr/pdf/st-m-app-cart.pdf)
 
-### Séance 3
+### Épisode 3
 - [Réseaux de neurones](http://wikistat.fr/pdf/st-m-app-rn.pdf), introduction au *deep learning*
 - [Agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf): *boosting, random forest*
 
-### Séance 4
+### Épisode 4
 - [Régression PLS](http://wikistat.fr/pdf/st-m-app-sparse-pls.pdf)
 - [*Support Vector Machine*](http://wikistat.fr/pdf/st-m-app-svm.pdf)
 - [Synthèse](http://wikistat.fr/pdf/st-m-app-conclusion.pdf)
 
-### Séance 5 (en travaux)
+### Épisodee 5 (en travaux)
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
-- [Détection de défaillances]()(*One class Classification, noveltry detection*) 
+- [Détection de défaillances]() (*One class Classification, noveltry detection*) 
 
 
-## Exemples et cas d'usage
+## Cas d'usage
 
 - [`ExemplesJouet`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) illustratifs sur données simulées:
 	- Discrimination binaire en dimension 2: [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-R-Clouds.ipynb) en R ou [`Blobs`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-Python-Blobs.ipynb) de Scikit-learn. Dessiner les frontières des classes selon les méthodes utilisées, rôle du paramètre de compexité;
