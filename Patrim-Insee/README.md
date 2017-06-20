@@ -1,0 +1,8 @@
+###<a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des Données`](http://www.math.insa-toulouse.fr/fr/enseignement.html)
+
+# Tutoriels de Science des Données en [Python](https://www.python.org/) et [R](href="https://cran.r-project.org/)
+# [Apprentissage Statistique](\http://wikistat.fr)
+
+## Enquête "Patrimoine" de l'INSEE, score d'appétence du produit "Assurance vie"
+- [`Patrim-Insee`](https://github.com/wikistat/Apprentissage/blob/master/GRC-carte_Visa/Apprent-R-PatrInsee.ipynb). Après avoir réalisé le premier [objectif de segmentation](https://github.com/wikistat/Exploration/blob/master/Exploration/Explo-R-PatrInsee.ipynb) ou profilage des types de comportement des français vis à vis de leur patrimoine, l'objectif, est de contruire un outil classique en GRr (gestion de la relation client). La plupart des méthodes sont abordées et  comparées [régression logistique](http://wikistat.fr/pdf/st-m-app-rlogit.pdf), [analyse discriminante](http://wikistat.fr/pdf/st-m-app-add.pdf), [arbre de discrimination](http://wikistat.fr/pdf/st-m-app-cart.pdf), [agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf), [SVM](http://wikistat.fr/pdf/st-m-app-svm.pdf). Les estimations des [erreurs de prévision](http://wikistat.fr/pdf/st-m-app-risque-estim.pdf) et les courbes [ROC](http://wikistat.fr/pdf/st-m-app-risque-estim.pdf) sont comparées à la suite du tirage itératif d'un ensemble d'échantillons tests.
+
