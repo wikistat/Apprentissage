@@ -51,8 +51,8 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 - Pic d'ozone: [calepin en Python](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-Python-Ozone.ipynb)
 
 ### Épisode 1 
-- [Introduction: Apprentissage Machine pour la Science des données](http://wikistat.fr/pdf/st-m-app-intro.pdf)
-- [Qualité de prévision, risque](http://wikistat.fr/pdf/st-m-app-risque-estim.pdf)
+- [Introduction: Apprentissage Machine pour la Science des données](http://wikistat.fr/pdf/http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ApprentStat.pdf)
+- [Qualité de prévision, risque](http://wikistat.fr/pdf/http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-app-risque.pdf)
 - [Rappels sur le modèle linéaire général](http://wikistat.fr/pdf/st-m-app-rlogit.pdf) (modèles gaussien et binomial)
 
 ### Épisode 2
@@ -80,4 +80,5 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 	- Régression polynomiale en R, optimisation de la complexité (degré) par *Cp* de Mallows, régularisation *ridge* ou lasso.
 - [`Pic d'ozone`](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone) Prévision de la concentration (régression) ou de dépassementdu seuil (discrimination binaire) légal d'ozone par la plupart des méthodes d'apprentissage. En R et en Python.
 - [`Diagnostic coronarien`](https://github.com/wikistat/Apprentissage/tree/master/Diag-coro) Prévision du risque de coronopathie (discrimination binaire) par les principales méthodes d'apprentissage en R. Optimisation avec la librairie [`caret`](http://topepo.github.io/caret/index.html), introduction à l'implémentation de [`xgboost`](https://xgboost.readthedocs.io/en/latest/) en R.
-- Les autres scénarios en R de [wikistat.fr](http://wikistat.fr/) seront progressivement intégrés.
+- [`Patrimoine INSEE`](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) La gestion de la relation client appliquée à des données d'enquête INSEE. Recherche d'un score d'appétence pour l'assurance vie.
+- D'autres scénarios de [wikistat.fr](http://wikistat.fr/) en R ou Python sont progressivement intégrés.
