@@ -51,8 +51,8 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 - Pic d'ozone: [calepin en Python](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-Python-Ozone.ipynb)
 
 ### Épisode 1 
-- [Introduction: Apprentissage Machine pour la Science des données](http://wikistat.fr/pdf/http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ApprentStat.pdf)
-- [Qualité de prévision, risque](http://wikistat.fr/pdf/http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-app-risque.pdf)
+- [Introduction: Apprentissage Machine pour la Science des données](http://wikistat.fr/pdf/st-m-Intro-ApprentStat.pdf)
+- [Qualité de prévision, risque](http://wikistat.fr/pdf/st-m-app-risque.pdf)
 - [Rappels sur le modèle linéaire général](http://wikistat.fr/pdf/st-m-app-rlogit.pdf) (modèles gaussien et binomial)
 
 ### Épisode 2
