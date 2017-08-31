@@ -5,4 +5,5 @@
 
 
 ## Prévision de risque et diagnostic coronarien
-- [`apprent-R-DiagCoro`](https://github.com/wikistat/Exploration/blob/master/Diag-coro/Apprent-R-DiagCoro.ipynb) Modélisation de la variable binaire de présence d'une pathologie coronarienne. Comparaison de la plupart des méthodes et algorithmes; intérêt, ou non, d'ajouter des variables ou caractéristiques (*features*) obtenues par analyse de correspondances de toutes les variables rendues qualitatives. Utilisation de [`caret`](http://topepo.github.io/caret/index.html) pour l'optimisation des valeurs des paramètres et introducton à l'implémentation de [`xgboost`](https://xgboost.readthedocs.io/en/latest/) en R.
+- [`apprent-R-DiagCoro`](https://github.com/wikistat/Apprentissage/blob/master/Diag-coro/Apprent-R-DiagCoro.ipynb) Modélisation de la variable binaire de présence d'une pathologie coronarienne. Comparaison de la plupart des méthodes et algorithmes; intérêt, ou non, d'ajouter des variables ou caractéristiques (*features*) obtenues par analyse de correspondances de toutes les variables rendues qualitatives. Utilisation de [`caret`](http://topepo.github.io/caret/index.html) pour l'optimisation des valeurs des paramètres et introducton à l'implémentation de [`xgboost`](https://xgboost.readthedocs.io/en/latest/) en R.
+
