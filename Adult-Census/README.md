@@ -5,4 +5,4 @@
 
 
 ## Prévision du revenu à partir de données enquête
-- [`Apprent-Python-AdultCensus`](https://github.com/wikistat/Apprentissage/blob/master/Adult-Census/Apprent-Python-AdultCensus.ipynb) Analyse du revenu. Modélisation et prévision du dépassement d'un seuil de revenu. Comparaison de la pertinence et de l'efficacité de différentes méthodes.
+- [`Apprent-Python-AdultCensus`](https://github.com/wikistat/Apprentissage/blob/master/Adult-Census/Apprent-Python-AdultCensus.ipynb) Analyse du revenu. Modélisation et prévision du dépassement d'un seuil de revenu en python. Comparaison de la pertinence et de l'efficacité de différentes méthodes.

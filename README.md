@@ -79,6 +79,11 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 	- Discrimination binaire en dimension 2: [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-R-Clouds.ipynb) en R ou [`Blobs`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-Python-Blobs.ipynb) de Scikit-learn. Dessiner les frontières des classes selon les méthodes utilisées, rôle du paramètre de compexité;
 	- Régression polynomiale en R, optimisation de la complexité (degré) par *Cp* de Mallows, régularisation *ridge* ou lasso.
 - [`Pic d'ozone`](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone) Prévision de la concentration (régression) ou de dépassementdu seuil (discrimination binaire) légal d'ozone par la plupart des méthodes d'apprentissage. En R et en Python.
+- [`AdultCensus`](https://github.com/wikistat/Apprentissage/blob/master/Adult-Census/) Données de sondage de 32561 citoyens américains. Prévision de la variable dépassement d'un seuil de revenu à partir de variables socio économiques.
 - [`Diagnostic coronarien`](https://github.com/wikistat/Apprentissage/tree/master/Diag-coro) Prévision du risque de coronopathie (discrimination binaire) par les principales méthodes d'apprentissage en R. Optimisation avec la librairie [`caret`](http://topepo.github.io/caret/index.html), introduction à l'implémentation de [`xgboost`](https://xgboost.readthedocs.io/en/latest/) en R.
+- [`GRC-carte_Visa`](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa). Exemple de Gestion de la Relation Client (GRC). Prévision du score d'appétance de la carte visa premier; comparaison des méthodes.
 - [`Patrimoine INSEE`](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) La gestion de la relation client appliquée à des données d'enquête INSEE. Recherche d'un score d'appétence pour l'assurance vie.
-- D'autres scénarios de [wikistat.fr](http://wikistat.fr/) en R ou Python sont progressivement intégrés.
+- [`Pourriels`](https://github.com/wikistat/Apprentissage/blob/master/Spam/) détection de pourriels dans une base de courriers électroniques.
+
+
+
