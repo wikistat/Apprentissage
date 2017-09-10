@@ -68,7 +68,7 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 - [*Support Vector Machine*](http://wikistat.fr/pdf/st-m-app-svm.pdf)
 - [Synthèse](http://wikistat.fr/pdf/st-m-app-conclusion.pdf)
 
-### Épisode 5 (en travaux)
+### Épisode 5
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
 - [Détection de défaillances]() (*One class Classification, noveltry detection*) 
 
