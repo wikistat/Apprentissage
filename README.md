@@ -30,8 +30,15 @@ Avoir acquis les compétences des épisodes précédents ou revenir dans leurs s
 - Formation aux [outils Statistiques de base](https://github.com/wikistat/StatElem)
 - [Exploration Statistique pour la Science des Données](https://github.com/wikistat/Exploration). Cet épisode intègre les algorithmes d'apprentissage non-supervisé (*clustering*).
 
-## Organisation
-Les **épisodes** ci-dessous sont associées à des calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en R et Python. Exécuter les calepins en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
+## <FONT COLOR="Red"> Déroulement de l'UF *Apprentissage Machine* </font>
+Les **épisodes** ci-dessous sont associées à des calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en R et Python. 
+
+- Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
+- Lors de chaque séance / épisode, exécuter les calepins (*R et Python*) en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
+- Parallèlement, exécuter le calepin [patrimoine INSEE](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) de calcul du score d'appétence de l'assurance vie.
+- Reproduire en python le travail réalisé précédemment en R.
+- **Rendre par binome et pour le 22/12/2017 18H** le calepin Python commenté de ce travail avec un résumé substanciel de la démarche, des résultats obtenus, de la comparaions R vs. pyhton.
+- **Examen** le 10/01/2018 9h30 analogue aux autres calepins disponibles.
 
 Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
 
