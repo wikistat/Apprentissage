@@ -16,33 +16,31 @@ Il ne s'agit pas simplement de pouvoir exécuter une méthode, un algorithme, il
 
 # Saison 3 [*Apprentissage Machine / Statistique*](\http://wikistat.fr)
 
-### [Introduction plus détaillée](http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ApprentStat.pdf)
+### [Introduction plus détaillée](http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ApprentStat.pdf)...
 
 ## Objectifs
 
 Cette saison est consacrée à l'apprentissage des principales méthodes et algorihtmes d'apprentissage (supervisé) machine ou statistique listées dans les épisodes successifs.
 
 ## Prérequis
-Avoir acquis les compétences des épisodes précédents ou revenir dans leurs saisons:
+Avoir acquis les compétences des épisodes précédents ou revenir à leur saison:
 
 - [Initiation à R](https://github.com/wikistat/Intro-R)
 - [Initiation à Python](https://github.com/wikistat/Intro-Python)
-- Formation aux [outils Statistiques de base](https://github.com/wikistat/StatElem)
-- [Exploration Statistique pour la Science des Données](https://github.com/wikistat/Exploration). Cet épisode intègre les algorithmes d'apprentissage non-supervisé (*clustering*).
+- Formation aux [outils statistiques de base](https://github.com/wikistat/StatElem)
+- [Exploration Statistique pour la Science des Données](https://github.com/wikistat/Exploration). Cette saison intègre les algorithmes de classification non-supervisée (*clustering*).
 
 ## <FONT COLOR="Red"> Déroulement de l'UF *Apprentissage Machine* </font>
-Les **épisodes** ci-dessous sont associées à des calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en R et Python. 
 
 - Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
-- Lors de chaque séance / épisode, exécuter les calepins (*R et Python*) en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
-- Parallèlement, exécuter le calepin [patrimoine INSEE](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) de calcul du score d'appétence de l'assurance vie.
-- Reproduire en python le travail réalisé précédemment en R.
-- **Rendre par binome et pour le 22/12/2017 18H** le calepin Python commenté de ce travail avec un résumé substanciel de la démarche, des résultats obtenus, de la comparaions R vs. pyhton.
-- **Examen** le 10/01/2018 9h30 analogue aux autres calepins disponibles.
-
-Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
-
-D'autres scénarios (exemples et cas d'usage ci-dessous), basés sur des jeux de données plus complets / complexes sont et seront disponibles dans ce même dépôt.
+- Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
+- Traiter également le projet commun entre les UFs. 
+- **Rendre par binome et pour le 22/12/2017 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
+- **Examen** le 10/01/2018 9h30 sur un thème analogue aux autres calepins disponibles.
+- Remarques
+	- le calepin [patrimoine INSEE](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) de calcul du score d'appétence de l'assurance vie est un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
+	- Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
+	- D'autres scénarios (exemples et cas d'usage ci-dessous), basés sur des jeux de données complets / complexes sont et seront disponibles dans ce même dépôt.
 
 ## Pour aller plus loin
 Aborder la *Science des Données* avec les 
