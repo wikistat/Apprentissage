@@ -4,4 +4,4 @@
 # [Apprentissage Statistique](\http://wikistat.fr)
 
 ## Détection de pourriels 
-- [`Spam`](https://github.com/wikistat/Apprentissage/blob/master/Spam/Apprent-R-spam.ipynb) Comparaison des méthodes de classifications appliquées à la détectio d'un pourriel pari un ensemnble de messages électroniques.
+- [`Spam`](https://github.com/wikistat/Apprentissage/blob/master/Spam/Apprent-R-spam.ipynb) Comparaison des méthodes de classifications appliquées à la détection d'un pourriel parmi un ensemnble de messages électroniques.

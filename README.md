@@ -48,9 +48,9 @@ Aborder la *Science des Données* avec les
 - [Technologies des grosses data](https://github.com/wikistat/Ateliers-Big-Data) (Hadoop Spark, XGBoost, Keras...)
 
 ## Épisodes 
-Les [calepins]((https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) python et R "fil rouge", sont découpés en 4 épisodes listés ci-dessous. Le 5ème est illustré par des calepins spécifiques (à venir).
+Les [calepins]((https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) python et R "fil rouge", sont découpés en 5 épisodes listés ci-dessous. 
 
-Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécuter les parties correspondantes des calepins . 
+Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécuter les parties correspondantes des calepins. 
 
 - Pic d'ozone: [calepin en R](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-R-Ozone.ipynb)
 - Pic d'ozone: [calepin en Python](https://github.com/wikistat/Apprentissage/blob/master/Pic-ozone/Apprent-Python-Ozone.ipynb)
@@ -78,7 +78,7 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 - [Détection de défaillances]() (*One class Classification, noveltry detection*) 
 
 
-## Cas d'usage
+## Cas d'usage (sujets d'examen)
 
 - [`ExemplesJouet`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) illustratifs sur données simulées:
 	- Discrimination binaire en dimension 2: [`Nuages gaussiens`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-R-Clouds.ipynb) en R ou [`Blobs`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet/Apprent-Python-Blobs.ipynb) de Scikit-learn. Dessiner les frontières des classes selon les méthodes utilisées, rôle du paramètre de compexité;
