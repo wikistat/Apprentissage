@@ -75,7 +75,7 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 
 ### Épisode 5
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
-- [Détection de défaillances]() (*One class Classification, noveltry detection*) 
+- [Détection de défaillances](http://wikistat.fr/pdf/st-m-app-anomalies.pdf) (*One class Classification, noveltry detection*) 
 
 
 ## Cas d'usage (sujets d'examen)
