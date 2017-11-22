@@ -89,6 +89,8 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 - [`GRC-carte_Visa`](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa). Exemple de Gestion de la Relation Client (GRC). Prévision du score d'appétance de la carte visa premier; comparaison des méthodes.
 - [`Patrimoine INSEE`](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) La gestion de la relation client appliquée à des données d'enquête INSEE. Recherche d'un score d'appétence pour l'assurance vie.
 - [`Pourriels`](https://github.com/wikistat/Apprentissage/blob/master/Spam/) détection de pourriels dans une base de courriers électroniques.
+- [`NIR`](https://github.com/wikistat/Apprentissage/blob/master/NIR/) Approches utilisées en chimiométrie: modélisation et prévision à partir de mesures spectrométriques dans le proche infra-rouge: taux de sucre dans une pâte à gâteaux et taux de graisse dans des échantillons de viande.
+
 
 
 
