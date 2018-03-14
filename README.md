@@ -33,7 +33,7 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
 ## <FONT COLOR="Red"> Déroulement de l'UF *Apprentissage Machine* </font>
 
 - Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
-- Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
+- Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python3* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
 - Traiter également le projet commun entre les UFs. 
 - **Rendre par binome et pour le 22/12/2017 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
 - **Examen** le 10/01/2018 9h30 sur un thème analogue aux autres calepins disponibles.
