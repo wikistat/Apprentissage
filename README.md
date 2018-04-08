@@ -1,6 +1,6 @@
 ## <a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des Données`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
 
-# Science des Données & Statistique
+# Science des Données & Apprentissage Statistique
 
 ### [Lire plus...](http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-lm-Intro-Stat_SD.pdf)
 
@@ -14,13 +14,13 @@ Pour offrir de la *profondeur*, plus de compréhension, à cette (auto)-formatio
 
 Il ne s'agit pas simplement de pouvoir exécuter une méthode, un algorithme, il est important d'en **comprendre les propriétés**, conditions d'utilisation et limites.
 
-# Saison 3 [*Apprentissage Machine / Statistique*](\http://wikistat.fr)
+# Saison 3 [*Apprentissage Automatique / Statistique*](\http://wikistat.fr)
 
 ### [Introduction plus détaillée](http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-Intro-ApprentStat.pdf)...
 
 ## Objectifs
 
-Cette saison est consacrée à l'apprentissage des principales méthodes et algorihtmes d'apprentissage (supervisé) machine ou statistique listées dans les épisodes successifs.
+Cette saison est consacrée à l'apprentissage des principales méthodes et algorihtmes d'apprentissage (supervisé) automtique ou statistique listés dans les épisodes successifs.
 
 ## Prérequis
 Avoir acquis les compétences des épisodes précédents ou revenir à leur saison:
@@ -34,11 +34,11 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
 
 - Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
 - Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python3* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
-- Traiter également le projet commun entre les UFs. 
-- **Rendre par binome et pour le 22/12/2017 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
-- **Examen** le 10/01/2018 9h30 sur un thème analogue aux autres calepins disponibles.
+- Réaliser également le projet au fur et à mesure des épisodes. 
+- **Rendre par binome et pour le xx/12/2018 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
+- **Examen** le xx/xx/201x xhxx sur un thème analogue aux autres calepins disponibles.
 - Remarques
-	- le calepin [patrimoine INSEE](https://github.com/wikistat/Apprentissage/tree/master/Patrim-Insee) de calcul du score d'appétence de l'assurance vie est un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
+	- les calepins de [GRC Visa](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa) de calcul du score d'appétence d'une cate Visa Premier traitent un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
 	- Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
 	- D'autres scénarios (exemples et cas d'usage ci-dessous), basés sur des jeux de données complets / complexes sont et seront disponibles dans ce même dépôt.
 
@@ -71,7 +71,7 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 ### Épisode 4
 - [Régression PLS](http://wikistat.fr/pdf/st-m-app-sparse-pls.pdf)
 - [*Support Vector Machine*](http://wikistat.fr/pdf/st-m-app-svm.pdf)
-- [Synthèse](http://wikistat.fr/pdf/st-m-app-conclusion.pdf)
+- [Synthèse](http://wikistat.fr/pdf/st-m-app-conclusion.pdf) 
 
 ### Épisode 5
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
