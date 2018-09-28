@@ -37,8 +37,8 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
 - Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
 - Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python3* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
 - Réaliser également le projet au fur et à mesure des épisodes. 
-- **Rendre par binome et pour le xx/12/2018 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
-- **Examen** le xx/xx/201x xhxx sur un thème analogue aux autres calepins disponibles.
+- **Rendre par binome et pour le 22/12/2018 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
+- **Examen** le 06/12/2018 8h00 sur un thème analogue aux autres calepins disponibles.
 - Remarques
 	- les calepins de [GRC Visa](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa) de calcul du score d'appétence d'une cate Visa Premier traitent un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
 	- Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
@@ -47,7 +47,7 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
 ## Pour aller plus loin
 Aborder la *Science des Données* avec les 
 
-- [Technologies des grosses data](https://github.com/wikistat/Ateliers-Big-Data) (Hadoop Spark, XGBoost, Keras...)
+- [Technologies de l'IA](https://github.com/wikistat/AI-Frameworks) (Hadoop Spark, Keras, TensorFLow...)
 
 ## Épisodes 
 Les [calepins]((https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) python et R "fil rouge", sont découpés en 5 épisodes listés ci-dessous. 
@@ -77,7 +77,7 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 
 ### Épisode 5
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
-- [Détection de défaillances](http://wikistat.fr/pdf/st-m-app-anomalies.pdf) (*One class Classification, noveltry detection*) 
+- [Détection de défaillances](http://wikistat.fr/pdf/st-m-app-anomalies.pdf) (*One Class Classification, noveltry detection*) 
 
 
 ## Cas d'usage (sujets d'examen)
