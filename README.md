@@ -22,7 +22,7 @@ Il ne s'agit pas simplement de pouvoir exécuter une méthode, un algorithme, il
 
 ## Objectifs
 
-Cette saison est consacrée à l'apprentissage des principales méthodes et algorihtmes d'apprentissage (supervisé) automtique ou statistique listés dans les épisodes successifs.
+Cette saison est consacrée à l'apprentissage des principales méthodes et algorihtmes d'apprentissage (supervisé) automatique ou statistique listés dans les épisodes successifs.
 
 ## Prérequis
 Avoir acquis les compétences des épisodes précédents ou revenir à leur saison:
