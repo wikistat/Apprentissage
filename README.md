@@ -1,6 +1,8 @@
 ## <a href="http://www.insa-toulouse.fr/" ><img src="http://www.math.univ-toulouse.fr/~besse/Wikistat/Images/Logo_INSAvilletoulouse-RVB.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques Appliquées*](http://www.math.insa-toulouse.fr/fr/index.html), [`Science des Données`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
 
-# Science des Données & Apprentissage Statistique
+# Science des Données, Apprentissage Statistique & IA
+
+Un *buzz word*: *big data*, *data science*, *machine learning* en chasse un autre et les battages médiatiques se succèdent jusqu'au dernier en date: **intelligence artificielle** (IA). Appellation ancienne remise au premier plan par les succès d'AlphaGo, des véhicules autonomes et aussi, surtout, de la rencontre de la croissance exponentielle des masses de données avec les algorihtmes d'apprentissage statistique, dont le *deep learning*, pour les exploiter, les valoriser. 
 
 ### [Lire plus...](http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-lm-Intro-Stat_SD.pdf)
 
