@@ -2,7 +2,7 @@
 
 # Science des Données, Apprentissage Statistique & IA
 
-Un *buzz word*: *big data*, *data science*, *machine learning* en chasse un autre et les battages médiatiques se succèdent jusqu'au dernier en date: **intelligence artificielle** (IA). Appellation ancienne remise au premier plan par les succès d'AlphaGo, des véhicules autonomes et aussi, surtout, de la rencontre de la croissance exponentielle des masses de données avec les algorihtmes d'apprentissage statistique, dont le *deep learning*, pour les exploiter, les valoriser. 
+Un *buzz word*: *big data*, *data science*, *machine learning* en chasse un autre et les battages médiatiques se succèdent jusqu'au dernier en date: **intelligence artificielle** (IA). Appellation ancienne remise au premier plan par les succès d'AlphaGo, des véhicules autonomes et aussi, surtout, de la rencontre de la croissance exponentielle des masses de données avec les algorihtmes d'apprentissage statistique, dont le *deep learning*, pour les exploiter, les valoriser, notamment en reconnaissance d'images. 
 
 ### [Lire plus...](http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-lm-Intro-Stat_SD.pdf)
 
@@ -32,22 +32,26 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
 - Formation aux [outils statistiques de base](https://github.com/wikistat/StatElem)
 - [Exploration Statistique pour la Science des Données](https://github.com/wikistat/Exploration). Cette saison intègre les algorithmes de classification non-supervisée (*clustering*).
 
-## <FONT COLOR="Red"> Déroulement de l'UF *Apprentissage Machine* </font>
+## <FONT COLOR="Red"> Déroulement de l'UF *Apprentissage Automatique (ML, Machine Learning)* </font>
 
 - Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
 - Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python3* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
-- Réaliser également le projet au fur et à mesure des épisodes. 
-- **Rendre par binome et pour le 22/12/2018 18H** le calepin Python commenté du projet avec un résumé substanciel de la démarche et des résultats obtenus.
-- **Examen** le 06/12/2018 8h00 sur un thème analogue aux autres calepins disponibles.
-- Remarques
-	- les calepins de [GRC Visa](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa) de calcul du score d'appétence d'une cate Visa Premier traitent un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
+- **Projet**: *Rendre par binome pour le 21/12/2019 18H* le calepin Python commenté du projet et un résumé substanciel (pdf de 2/3 pages) de la démarche et des principaux résultats obtenus. **Contenu:** compléter le [calepin](https://github.com/wikistat/Apprentissage/blob/master/Adult-Census/Apprent-Python-AdultCensus.ipynb) en python de prévision de la variable "niveau de revenu" à partir des données [*adult census*](https://archive.ics.uci.edu/ml/datasets/adult) de l'UCI. 
+    - Ajouter d'autres algorithmes d'apprentissage en concurrence: *k*-nn, SVM et surtout **XGBoost** dans sa version pour carte GPU afin d'optimiser finement les valeurs des nombreux hyper-paramètres. 
+    - Transposer en python les outils de détection et correction élémentaire de biais donc de discrimination développés dans le [calepin R](https://github.com/wikistat/Fair-ML-4-Ethical-AI/blob/master/AdultCensus/AdultCensus-R-biasDetection.ipynb).
+    - Evaluer le comportement des algorithmes (temps d'exécution, précision) en fonction de la taille de l'échantillon d'apprentisage.
+    - **Conclusion**: trouver l'algorithme, entraîné sur une *taille raisonnable* d'échantillon et assurant le meilleur comprommis entre *temps d'exécution*, *qualité de prévision* et *contrôle élémentaire du biais* pour éviter de discriminer.
+- **Examen** le xx/12/2019 yhyy par QCM (espérance nulle) couvrant tous les algorihtmes vus en cours comme en TP.
+- *Remarques:*
+	- les calepins de [GRC Visa](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa) de calcul du score d'appétence d'une carte Visa Premier traitent un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
 	- Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
-	- D'autres scénarios (exemples et cas d'usage ci-dessous), basés sur des jeux de données complets / complexes sont et seront disponibles dans ce même dépôt.
+	- D'autres scénarios (exemples et cas d'usage ci-dessous), basés sur des jeux de données complets / complexes sont disponibles dans ce même dépôt.
 
 ## Pour aller plus loin
-Aborder la *Science des Données* avec les 
+Consulter, étudier, les saisons suivantes: 
 
-- [Technologies de l'IA](https://github.com/wikistat/AI-Frameworks) (Hadoop Spark, Keras, TensorFLow...)
+- [High Dimensional and Deep Learning](https://github.com/wikistat/High-Dimensional-Deep-Learning) 
+- [AI frameworks](https://github.com/wikistat/AI-Frameworks) 
 
 ## Épisodes 
 Les [calepins]((https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) python et R "fil rouge", sont découpés en 5 épisodes listés ci-dessous. 
@@ -77,7 +81,8 @@ Pour chaque épisode, **suivre le cours** ou consulter les vignettes et exécute
 
 ### Épisode 5
 - [Imputation de données manquantes](http://wikistat.fr/pdf/st-m-app-idm.pdf)
-- [Détection de défaillances](http://wikistat.fr/pdf/st-m-app-anomalies.pdf) (*One Class Classification, noveltry detection*) 
+- [Apprentissage loyal pour IA éthique](https://github.com/wikistat/Fair-ML-4-Ethical-AI). Suivre le [calepin en R](https://github.com/wikistat/Fair-ML-4-Ethical-AI/blob/master/AdultCensus/AdultCensus-R-biasDetection.ipynb) "bac à sable" d'analyse des données de sondage pour appréhender les questions de biais et discrimination en Apprentisage Automatique: détection et correction.
+- ***NB*** La partie: [Détection de défaillances](http://wikistat.fr/pdf/st-m-app-anomalies.pdf) (*One Class Classification, noveltry detection*) est intégrée à la saison [HDDL](https://github.com/wikistat/High-Dimensional-Deep-Learning).
 
 
 ## Cas d'usage (sujets d'examen)
