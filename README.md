@@ -37,11 +37,11 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
 - Consulter le [document ](https://github.com/wikistat/Intro-R) (`README`) pour installer le noyau `IRkernel` afin de pouvoir utiliser R dans Jupyter.
 - Lors de chaque séance / **épisode**, exécuter les calepins "fil rouge" ([prévision des pics d'ozone](https://github.com/wikistat/Apprentissage/tree/master/Pic-ozone)) en *R et Python3* en se référant, si nécessaire aux vignettes, (liens hypertextes) à chaque étape. 
 - **Projet**: *Rendre par binome pour le 21/12/2019 18H* le calepin Python commenté du projet et un résumé substanciel (pdf de 2/3 pages) de la démarche et des principaux résultats obtenus. **Contenu:** compléter le [calepin](https://github.com/wikistat/Apprentissage/blob/master/Adult-Census/Apprent-Python-AdultCensus.ipynb) en python de prévision de la variable "niveau de revenu" à partir des données [*adult census*](https://archive.ics.uci.edu/ml/datasets/adult) de l'UCI. 
-    - Ajouter d'autres algorithmes d'apprentissage en concurrence: *k*-nn, SVM et surtout **XGBoost** dans sa version pour carte GPU afin d'optimiser finement les valeurs des nombreux hyper-paramètres. 
+    - Ajouter d'autres algorithmes d'apprentissage en concurrence et surtout **XGBoost** dans sa version pour carte GPU afin d'optimiser finement les valeurs des nombreux hyper-paramètres. 
     - Transposer en python les outils de détection et correction élémentaire de biais donc de discrimination développés dans le [calepin R](https://github.com/wikistat/Fair-ML-4-Ethical-AI/blob/master/AdultCensus/AdultCensus-R-biasDetection.ipynb).
     - Evaluer le comportement des algorithmes (temps d'exécution, précision) en fonction de la taille de l'échantillon d'apprentisage.
     - **Conclusion**: trouver l'algorithme, entraîné sur une *taille raisonnable* d'échantillon et assurant le meilleur comprommis entre *temps d'exécution*, *qualité de prévision* et *contrôle élémentaire du biais* pour éviter de discriminer.
-- **Examen** le xx/12/2019 yhyy par QCM (espérance nulle) couvrant tous les algorihtmes vus en cours comme en TP.
+- **Examen** le 12/12/2019 8h45 par QCM couvrant tous les algorihtmes vus en cours comme en TP.
 - *Remarques:*
 	- les calepins de [GRC Visa](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa) de calcul du score d'appétence d'une carte Visa Premier traitent un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
 	- Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
