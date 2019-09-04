@@ -41,7 +41,7 @@ Avoir acquis les compétences des épisodes précédents ou revenir à leur sais
     - Transposer en python les outils de détection et correction élémentaire de biais donc de discrimination développés dans le [calepin R](https://github.com/wikistat/Fair-ML-4-Ethical-AI/blob/master/AdultCensus/AdultCensus-R-biasDetection.ipynb).
     - Evaluer le comportement des algorithmes (temps d'exécution, précision) en fonction de la taille de l'échantillon d'apprentisage.
     - **Conclusion**: trouver l'algorithme, entraîné sur une *taille raisonnable* d'échantillon et assurant le meilleur comprommis entre *temps d'exécution*, *qualité de prévision* et *contrôle élémentaire du biais* pour éviter de discriminer.
-- **Examen** le 12/12/2019 8h45 par QCM couvrant tous les algorihtmes vus en cours comme en TP.
+- **Examen** le 19/12/2019 8h45 par QCM couvrant tous les algorihtmes vus en cours comme en TP.
 - *Remarques:*
 	- les calepins de [GRC Visa](https://github.com/wikistat/Apprentissage/tree/master/GRC-carte_Visa) de calcul du score d'appétence d'une carte Visa Premier traitent un exemple typique de marketing quantitatif ou Gestion de la Relation client à réaliser par celles-ceux à la recherche d'un stage dans ce domaine.
 	- Les [`exemples jouets`](https://github.com/wikistat/Apprentissage/tree/master/ExemplesJouet) servent aussi de *bac à sable* pour expérimenter chaque méthode. 
